@@ -7,9 +7,7 @@ Type=simple
 User=__APP__
 Group=__APP__
 WorkingDirectory=__INSTALL_DIR__/
-ExecStart=__INSTALL_DIR__/script
-StandardOutput=append:/var/log/__APP__/__APP__.log
-StandardError=inherit
+ExecStart=__INSTALL_DIR__/artifacts/filebin2-linux-amd64 --listen-port=__PORT__ --listen-host=127.0.0.1
 
 ### Depending on specificities of your service/app, you may need to tweak these
 ### .. but this should be a good baseline

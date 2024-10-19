@@ -2,8 +2,8 @@
 
 packaging_format = 2
 
-id = "example"
-name = "Example app"
+id = "filebin"
+name = "Filebin"
 description.en = "Explain in *a few (10~15) words* the purpose of the app or what it actually does (it is meant to give a rough idea to users browsing a catalog of 100+ apps)"
 description.fr = "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
 
@@ -18,7 +18,7 @@ website = "https://example.com"
 demo = "https://demo.example.com"
 admindoc = "https://yunohost.org/packaging_apps"
 userdoc = "https://yunohost.org/apps"
-code = "https://some.forge.com/example/example"
+code = "https://github.com/espebra/filebin2/"
 # FIXME: optional but recommended if relevant, this is meant to contain the Common Platform Enumeration, which is
 # sort of a standard id for applications defined by the NIST. In particular, YunoHost may use this is in the future
 # to easily track CVE (=security reports) related to apps. The CPE may be obtained by searching here:
@@ -88,22 +88,12 @@ ram.runtime = "50M"
     type = "password"
 
 [resources]
-    # See the packaging documentation for the full set
-    # of explanation regarding the behavior and properties for each of those
 
     [resources.sources]
 
     [resources.sources.main]
-    # This will pre-fetch the asset which can then be deployed during the install/upgrade scripts with :
-    #    ynh_setup_source --dest_dir="$install_dir"
-    # You can also define other assets than "main" and add --source_id="foobar" in the previous command
-    url = "https://github.com/foo/bar/archive/refs/tags/v1.2.3.tar.gz"
-    sha256 = "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
-
-    # These infos are used by https://github.com/YunoHost/apps/blob/master/tools/autoupdate_app_sources/autoupdate_app_sources.py
-    # to auto-update the previous asset urls and sha256sum + manifest version
-    # assuming the upstream's code repo is on github and relies on tags or releases
-    # See the 'sources' resource documentation for more details
+    url = "https://github.com/espebra/filebin2/archive/refs/heads/master.zip"
+    sha256 = "bf210b4e886019e72be9a553a0a3d68546d13df10385df745a68f0e9aa79060e"
 
     # autoupdate.strategy = "latest_github_tag"
 
