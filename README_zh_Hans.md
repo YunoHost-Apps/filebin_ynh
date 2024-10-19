@@ -29,9 +29,6 @@ This is a dummy description of this app features
 
 ## 文档与资源
 
-- 官方应用网站： <https://example.com>
-- 官方用户文档： <https://yunohost.org/apps>
-- 官方管理文档： <https://yunohost.org/packaging_apps>
 - 上游应用代码库： <https://github.com/espebra/filebin2/>
 - YunoHost 商店： <https://apps.yunohost.org/app/filebin>
 - 报告 bug： <https://github.com/YunoHost-Apps/filebin_ynh/issues>

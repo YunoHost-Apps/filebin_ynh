@@ -29,9 +29,6 @@ This is a dummy description of this app features
 
 ## Documentatie en bronnen
 
-- Officiele website van de app: <https://example.com>
-- Officiele gebruikersdocumentatie: <https://yunohost.org/apps>
-- Officiele beheerdersdocumentatie: <https://yunohost.org/packaging_apps>
 - Upstream app codedepot: <https://github.com/espebra/filebin2/>
 - YunoHost-store: <https://apps.yunohost.org/app/filebin>
 - Meld een bug: <https://github.com/YunoHost-Apps/filebin_ynh/issues>
