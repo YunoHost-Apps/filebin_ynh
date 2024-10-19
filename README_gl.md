@@ -29,9 +29,6 @@ This is a dummy description of this app features
 
 ## Documentación e recursos
 
-- Web oficial da app: <https://example.com>
-- Documentación oficial para usuarias: <https://yunohost.org/apps>
-- Documentación oficial para admin: <https://yunohost.org/packaging_apps>
 - Repositorio de orixe do código: <https://github.com/espebra/filebin2/>
 - Tenda YunoHost: <https://apps.yunohost.org/app/filebin>
 - Informar dun problema: <https://github.com/YunoHost-Apps/filebin_ynh/issues>

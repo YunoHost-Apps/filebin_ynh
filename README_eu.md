@@ -29,9 +29,6 @@ This is a dummy description of this app features
 
 ## Dokumentazioa eta baliabideak
 
-- Aplikazioaren webgune ofiziala: <https://example.com>
-- Erabiltzaileen dokumentazio ofiziala: <https://yunohost.org/apps>
-- Administratzaileen dokumentazio ofiziala: <https://yunohost.org/packaging_apps>
 - Jatorrizko aplikazioaren kode-gordailua: <https://github.com/espebra/filebin2/>
 - YunoHost Denda: <https://apps.yunohost.org/app/filebin>
 - Eman errore baten berri: <https://github.com/YunoHost-Apps/filebin_ynh/issues>

@@ -29,9 +29,6 @@ This is a dummy description of this app features
 
 ## Documentation and resources
 
-- Official app website: <https://example.com>
-- Official user documentation: <https://yunohost.org/apps>
-- Official admin documentation: <https://yunohost.org/packaging_apps>
 - Upstream app code repository: <https://github.com/espebra/filebin2/>
 - YunoHost Store: <https://apps.yunohost.org/app/filebin>
 - Report a bug: <https://github.com/YunoHost-Apps/filebin_ynh/issues>
