@@ -21,7 +21,7 @@ Ceci est une fausse description des fonctionalités de l'app
 
 **Version incluse :** 1.0~ynh1
 
-**Démo :** <https://demo.example.com>
+**Démo :** <https://filebin.net/>
 
 ## Captures d’écran
 
