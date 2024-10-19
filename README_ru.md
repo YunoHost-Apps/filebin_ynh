@@ -21,7 +21,7 @@ This is a dummy description of this app features
 
 **Поставляемая версия:** 1.0~ynh1
 
-**Демо-версия:** <https://demo.example.com>
+**Демо-версия:** <https://filebin.net/>
 
 ## Снимки экрана
 

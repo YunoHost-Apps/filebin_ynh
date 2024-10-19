@@ -21,7 +21,7 @@ This is a dummy description of this app features
 
 **Paketatutako bertsioa:** 1.0~ynh1
 
-**Demoa:** <https://demo.example.com>
+**Demoa:** <https://filebin.net/>
 
 ## Pantaila-argazkiak
 

@@ -21,7 +21,7 @@ This is a dummy description of this app features
 
 **分发版本：** 1.0~ynh1
 
-**演示：** <https://demo.example.com>
+**演示：** <https://filebin.net/>
 
 ## 截图
 
