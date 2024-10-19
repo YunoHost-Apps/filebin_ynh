@@ -7,7 +7,7 @@ Type=simple
 User=__APP__
 Group=__APP__
 WorkingDirectory=__INSTALL_DIR__/
-ExecStart=__INSTALL_DIR__/artifacts/filebin2-linux-amd64 --listen-host=127.0.0.1 --listen-port=__PORT__ --lurker-interval=10 --expiration=3600 --access-log=access.log --s3-secure=false --db-host=localhost --db-port==5432 --db-name=__DB_NAME__ --db-password=__DB_PWD__ --db-username=__DB_USER__ --limit-storage=1G --admin-username=__ADMIN__ --admin-password=__PASSWORD__ --contact="__EMAIL__"
+ExecStart=__INSTALL_DIR__/artifacts/filebin2-linux-amd64 --baseurl="__DOMAIN__" --listen-host=127.0.0.1 --listen-port=__PORT__ --lurker-interval=10 --expiration=3600 --access-log=access.log --s3-secure=false --db-host=localhost --db-port==5432 --db-name=__DB_NAME__ --db-password=__DB_PWD__ --db-username=__DB_USER__ --limit-storage=1G --admin-username=__ADMIN__ --admin-password=__PASSWORD__ --contact="__EMAIL__"
 
 
 ### Depending on specificities of your service/app, you may need to tweak these
