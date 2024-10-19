@@ -29,6 +29,7 @@ pushd $install_dir
 make linux
 popd
 ynh_go_remove
+
 chown -R "$app:$app" "$install_dir"
 
 #=================================================
@@ -36,10 +37,10 @@ chown -R "$app:$app" "$install_dir"
 #=================================================
 #ynh_script_progression "Adding $app's configuration files..."
 
-#ynh_config_add --template="some_config_file" --destination="$install_dir/some_config_file"
+#ynh_config_add --template=".env" --destination="$install_dir/.env"
 
-#chmod 400 "$install_dir/some_config_file"
-#chown "$app:$app" "$install_dir/some_config_file"
+#chmod 400 "$install_dir/.env"
+#chown "$app:$app" "$install_dir/.env"
 
 #=================================================
 # SYSTEM CONFIGURATION
