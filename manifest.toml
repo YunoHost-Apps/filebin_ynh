@@ -13,10 +13,7 @@ maintainers = ["eric_G"]
 
 [upstream]
 license = " BSD-3-Clause"
-website = "https://example.com"
 demo = "https://filebin.net/"
-admindoc = "https://yunohost.org/packaging_apps"
-userdoc = "https://yunohost.org/apps"
 code = "https://github.com/espebra/filebin2/"
 
 [integration]
@@ -58,8 +55,6 @@ ram.runtime = "50M"
     [resources.system_user]
 
     [resources.install_dir]
-
-    #[resources.data_dir]
 
     [resources.permissions]
     main.url = "/"

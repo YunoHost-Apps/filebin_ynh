@@ -16,7 +16,7 @@ Hij mag NIET handmatig aangepast worden.
 
 ## Overzicht
 
-This is a dummy description of this app features
+Filebin2 is a Web application that facilitates convenient file sharing over the Web.
 
 
 **Geleverde versie:** 1.0~ynh1
@@ -29,9 +29,6 @@ This is a dummy description of this app features
 
 ## Documentatie en bronnen
 
-- Officiele website van de app: <https://example.com>
-- Officiele gebruikersdocumentatie: <https://yunohost.org/apps>
-- Officiele beheerdersdocumentatie: <https://yunohost.org/packaging_apps>
 - Upstream app codedepot: <https://github.com/espebra/filebin2/>
 - YunoHost-store: <https://apps.yunohost.org/app/filebin>
 - Meld een bug: <https://github.com/YunoHost-Apps/filebin_ynh/issues>

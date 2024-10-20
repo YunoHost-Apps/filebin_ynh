@@ -16,7 +16,7 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-Ceci est une fausse description des fonctionalités de l'app
+Filebin2 est une application Web qui facilite le partage de fichiers sur le Web.
 
 
 **Version incluse :** 1.0~ynh1
@@ -29,9 +29,6 @@ Ceci est une fausse description des fonctionalités de l'app
 
 ## Documentations et ressources
 
-- Site officiel de l’app : <https://example.com>
-- Documentation officielle utilisateur : <https://yunohost.org/apps>
-- Documentation officielle de l’admin : <https://yunohost.org/packaging_apps>
 - Dépôt de code officiel de l’app : <https://github.com/espebra/filebin2/>
 - YunoHost Store : <https://apps.yunohost.org/app/filebin>
 - Signaler un bug : <https://github.com/YunoHost-Apps/filebin_ynh/issues>
