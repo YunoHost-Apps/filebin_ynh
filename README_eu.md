@@ -16,7 +16,7 @@ EZ editatu eskuz.
 
 ## Aurreikuspena
 
-This is a dummy description of this app features
+Filebin2 is a Web application that facilitates convenient file sharing over the Web.
 
 
 **Paketatutako bertsioa:** 1.0~ynh1

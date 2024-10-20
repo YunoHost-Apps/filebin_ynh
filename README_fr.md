@@ -16,7 +16,7 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-Ceci est une fausse description des fonctionalités de l'app
+Filebin2 est une application Web qui facilite le partage de fichiers sur le Web.
 
 
 **Version incluse :** 1.0~ynh1

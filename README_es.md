@@ -16,7 +16,7 @@ No se debe editar a mano.
 
 ## Descripción general
 
-This is a dummy description of this app features
+Filebin2 is a Web application that facilitates convenient file sharing over the Web.
 
 
 **Versión actual:** 1.0~ynh1
